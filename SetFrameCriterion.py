@@ -9,6 +9,4 @@ def frame_if():
         print(criteria[1])
     elif frame < 100:
         print(criteria[2])
-print(1)
 frame_if()
-2132132132132
