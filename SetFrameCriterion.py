@@ -10,5 +10,5 @@ def frame_if(status):
     elif frame < 100:
         print(criteria[2])
 
-
+print(hello)
 frame_if()
