@@ -9,5 +9,5 @@ def frame_if():
         print(criteria[1])
     elif frame < 100:
         print(criteria[2])
-1
+
 frame_if()
