@@ -1,5 +1,5 @@
 import cv2
-
+print(1)
 criteria = ['pass', 'warning', 'stop']
 frame = 0
 cv2.rectangle()
